@@ -1,6 +1,5 @@
-### 🥚 Fresh hatchling, on my way to fledgling 
-Full Stack Software Developer 🕊
-Currently working on a PCOS Habit Tracker web app
+### 🥚 Full Stack Developer in progress 🐇
+Coyotiv Cohort 13 || Currently working on a PCOS Habit Tracker web app
 
 <!--
 **bittaris/bittaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
