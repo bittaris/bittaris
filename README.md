@@ -1,4 +1,5 @@
-### 🥚 Fresh hatchling, hopeful fledgling Full Stack Software Developer 🕊
+### 🥚 Fresh hatchling, on my way to fledgling 
+Full Stack Software Developer 🕊
 Currently working on a PCOS Habit Tracker web app
 
 <!--
