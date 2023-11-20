@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🥚 Fresh hatchling, hopeful fledgling Full Stack Software Developer 🕊
+Currently working on a PCOS Habit Tracker web app
 
 <!--
 **bittaris/bittaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
